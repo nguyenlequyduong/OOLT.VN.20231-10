@@ -20,8 +20,8 @@ Hoàng Trường Nam - 20215096
 - ----------------------------------------------------------------------
 Nguyễn Lê Quý Dương 20210242
 - làm video demo.
--thiết kế usecase diagram.
--tham gia thiết kế class diagram
+- thiết kế usecase diagram.
+- tham gia thiết kế class diagram
 - ----------------------------------------------------------------------
 Vũ Đình Dương 20215024
 - thiết kế class diagram.
